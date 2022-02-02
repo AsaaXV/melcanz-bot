@@ -7,7 +7,7 @@ global.APIs = {
   amel: 'https://melcanz.com',
 }
 global.APIKeys = {
-  'https://melcanz.com': 'memekk'
+  'https://melcanz.com': 'konmekk'
 }
 
 global.packname = 'Ini WM'
